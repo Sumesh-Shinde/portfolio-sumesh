@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-sumesh/static/css/main.6e4985ef.css",
+    "main.js": "/portfolio-sumesh/static/js/main.49c77168.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio-sumesh/static/js/453.1407b060.chunk.js",
+    "static/media/Restro.png": "/portfolio-sumesh/static/media/Restro.e39ca55fb4b542ce7863.png",
+    "static/media/Pockate.png": "/portfolio-sumesh/static/media/Pockate.72024e5ca4a7442ef9ba.png",
+    "static/media/Myntra.png": "/portfolio-sumesh/static/media/Myntra.ccd714e4e059d6437359.png",
+    "static/media/TechHub.png": "/portfolio-sumesh/static/media/TechHub.5f824c520a81b8814de0.png",
+    "index.html": "/portfolio-sumesh/index.html",
+    "main.6e4985ef.css.map": "/portfolio-sumesh/static/css/main.6e4985ef.css.map",
+    "main.49c77168.js.map": "/portfolio-sumesh/static/js/main.49c77168.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio-sumesh/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4985ef.css",
+    "static/js/main.49c77168.js"
+  ]
+}
