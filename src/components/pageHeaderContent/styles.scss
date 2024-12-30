@@ -1,0 +1,27 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-top: 20px; /* Added space between navbar and page header */
+    border-bottom: 1px dashed var(--yellow-theme-main-color);
+    position: relative;
+    z-index: 1;
+    background-color: var(--yellow-theme-nav-background-color); 
+
+    h2 {
+        font-size: 36px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+        line-height: 1rem;
+        text-transform: capitalize;
+        color: var(--yellow-theme-main-color);
+        display: flex;
+        flex-grow: 1;
+    }
+
+    span {
+        svg {
+            color: var(--yellow-theme-main-color);
+        }
+    }
+}
