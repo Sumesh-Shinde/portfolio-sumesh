@@ -5,6 +5,8 @@ import TechHubimg from '../images/TechHub.png';
 import myntra from '../images/Myntra.png';
 import Pocket from '../images/Pockate.png';
 import Restro from '../images/Restro.png';
+import Movie from '../images/Movie.png';
+import portfolio from '../images/portfolio.png';
 import '../portfolio/styles.scss'
 
 
@@ -15,16 +17,22 @@ const filterData = [
     },
     {
         filterId: 2,
-        label: 'Developement'
+        label: 'Full Stack Projects'
     },
     {
         filterId: 3,
-        label: 'Design'
+        label: 'Web Developement Projects'
     },
 
 
 ]
 const portfolioData = [
+    {
+        id: 2,
+        name: "Movie Management App",
+        image: Movie,
+        link: 'https://github.com/Sumesh-Shinde/MovieHallManagement'
+    },
     {
         id: 2,
         name: "Tech-Hub",
@@ -45,9 +53,15 @@ const portfolioData = [
     },
     {
         id: 2,
-        name: "Online Restaurant Menu & Ordering System",
+        name: "Restaurant Menu & Ordering System",
         image: Restro,
         link: 'https://github.com/Sumesh-Shinde/Online-Restaurant-Menu-Ordering-System'
+    },
+    {
+        id: 3,
+        name: "Portfolio Website",
+        image: portfolio,
+        link: 'https://github.com/Sumesh-Shinde/portfolio-sumesh'
     },
 ]
 const Portfolio = () => {
@@ -112,7 +126,8 @@ const Portfolio = () => {
                                         index === hoveredValue && (
                                             <div>
                                                 <p>{item.name}</p>
-                                                <button>Github</button>
+                                                {/* <button>Github</button> */}
+                                                <button onClick={() => window.open(item.link, "_blank")}>GitHub</button>
                                             </div>
                                         )
                                     }

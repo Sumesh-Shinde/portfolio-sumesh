@@ -3,7 +3,7 @@ export const data = {
         {
             title: "Diploma in Full Stack Development",
             subtitle: "Spark It Training Institute",
-            description: "pursuing",
+            description: "A Grade",
         },
         {
             title: "M.Sc Tech (Industrial Mathematics with Computer Application)",
@@ -51,8 +51,8 @@ export const data = {
     // ],
     experience: [
         {
-            title: "RN Software & Consultants ,Kolhapur",
-            subtitle: "Junior.NET Developer(Internship)",
+            title: "Junior.NET Developer(Internship)",
+            subtitle: " RN Software & Consultants ,Kolhapur",
             description: "2024 January –2024 May",
         },
     ],
