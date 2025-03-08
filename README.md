@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# 🚀 Sumesh Shinde - Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a **MERN and Java Full Stack Developer**.
 
-## Available Scripts
+## 🌐 Live Demo
+🔗 **[View Portfolio]((https://portfolio-sumesh.vercel.app))** (Replace with your actual Vercel URL)
 
-In the project directory, you can run:
+## 📂 Project Structure
+```
+├── public/              # Static files (resume, images, favicon)
+├── src/
+│   ├── components/      # Reusable React components
+│   ├── pages/           # Portfolio pages (Home, Projects, Contact)
+│   ├── styles/          # Global SCSS styles
+│   ├── App.js           # Main App component
+│   ├── index.js         # Entry point
+├── package.json         # Dependencies & scripts
+├── README.md            # Project documentation
+```
 
-### `npm start`
+## 🛠️ Technologies Used
+- **Frontend:** React.js, React Router, SCSS
+- **UI/Icons:** React Icons, React Simple Animate
+- **Deployment:** Vercel
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Getting Started
+### 1️⃣ Clone the repository
+```sh
+git clone https://github.com/Sumesh-Shinde/portfolio.git
+cd portfolio
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2️⃣ Install dependencies
+```sh
+npm install
+```
 
-### `npm test`
+### 3️⃣ Start the development server
+```sh
+npm start
+```
+Your portfolio will be available at **http://localhost:3000**.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 4️⃣ Build for production
+```sh
+npm run build
+```
 
-### `npm run build`
+## 🌍 Deployment
+This portfolio is **hosted on Vercel**. To redeploy:
+```sh
+git add .
+git commit -m "Updated portfolio"
+git push origin main
+```
+Then go to **[Vercel Dashboard](https://vercel.com/)** and redeploy.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📄 Resume Download
+My resume can be downloaded from **[here](https://your-vercel-url.vercel.app/Sumesh_Shinde_Resume.pdf)**.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📬 Contact
+Feel free to connect with me:
+- **GitHub:** [Sumesh-Shinde](https://github.com/Sumesh-Shinde)
+- **LinkedIn:** [Sumesh Shinde](https://www.linkedin.com/in/sumesh-shinde-a469842a6)
+- **Email:** sumeshshinde9@gmail.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+Made with ❤️ by **Sumesh Shinde** 🚀
