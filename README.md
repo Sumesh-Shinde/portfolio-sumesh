@@ -55,8 +55,7 @@ git push origin main
 ```
 Then go to **[Vercel Dashboard](https://vercel.com/)** and redeploy.
 
-## 📄 Resume Download
-My resume can be downloaded from **[here](https://your-vercel-url.vercel.app/Sumesh_Shinde_Resume.pdf)**.
+
 
 ## 📬 Contact
 Feel free to connect with me:
