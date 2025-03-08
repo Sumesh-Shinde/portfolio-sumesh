@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a **MERN and Java Full Stack Developer**.
 
 ## 🌐 Live Demo
-🔗 **[View Portfolio]((https://portfolio-sumesh.vercel.app))** (Replace with your actual Vercel URL)
+🔗 **[View Portfolio]((https://portfolio-sumesh.vercel.app))** 
 
 ## 📂 Project Structure
 ```
